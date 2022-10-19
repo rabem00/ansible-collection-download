@@ -7,8 +7,6 @@
 # ---------------------------------------------------------------------------
 """
 Ansible Automation Platform Certified Collections List Download
-This can be used to download collections and use the downloaded collections
-to import in an on-premise automation-hub that not has internet connection.
 """
 # ---------------------------------------------------------------------------
 # Imports
